@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546771265732",
+    "project_id": "projemanag-2d682",
+    "storage_bucket": "projemanag-2d682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546771265732:android:936d2abcd1350a6d4f4191",
+        "android_client_info": {
+          "package_name": "com.sabanciuniv.projemanag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546771265732-q8l2uuv4573d5agpg1k2detc60nlnjji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinBNmrbdHbgVqvJ_nJwrfCHReef9ZPJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546771265732-q8l2uuv4573d5agpg1k2detc60nlnjji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
